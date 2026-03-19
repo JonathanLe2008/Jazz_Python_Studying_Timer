@@ -1,8 +1,6 @@
 # Jazz_Python_Studying_Timer
 A cozy, atmospheric study companion built with Python + Tkinter. A desktop productivity app that creates a calm, immersive environment. 
 
-## clone the repository
-
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the required dependencies
